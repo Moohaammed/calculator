@@ -4,6 +4,13 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.header h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    font-family: 'Overpass';
+}
+
 .container{
     width: 400px;
     border: 1px solid;
